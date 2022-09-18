@@ -2,6 +2,9 @@
 
 Initial edits by @benr75. Content by @dspacer. 
 
+## Get eventmachine working
+
+* rvm pkg install openssl
 * gem install eventmachine -v 1.2.7 -- --with-openssl-dir=$HOME/.rvm/usr
 
 # Treat
