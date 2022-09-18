@@ -2,6 +2,8 @@
 
 Initial edits by @benr75. Content by @dspacer. 
 
+* gem install eventmachine -v 1.2.7 -- --with-openssl-dir=$HOME/.rvm/usr
+
 # Treat
 
 Food/baking blog template for Jekyll. Browse through a [live demo](https://spring-bat.cloudvent.net/).
