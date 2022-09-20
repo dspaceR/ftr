@@ -4,11 +4,14 @@ image_view: true
 ---
 <h1>Recipes</h1>
 
-
+{% for category in site.categories %}
+	<span class="taglink"><a href="#{{ category[0] }}">{{ category[0] }}</a></span>
+{% endfor %}
 
 {% if page.image_view %}
 	{% for category in site.categories %}
-		<h2>{{ category[0] }}</h2>
+	<a name="{{ category[0] }}"></a> <br /><br /> 
+	<h2>{{ category[0] }}</h2>
 		<div class="recipes">
 			{% for recipe in category[1] %}
 				<div class="recipe" style="background-image: url('{{ recipe.featured_image }}')">
