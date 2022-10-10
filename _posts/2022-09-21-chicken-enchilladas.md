@@ -22,20 +22,22 @@ recipe:
     * Salt
   directions_markdown: |-
     **Follow This Recipe**
-    1. Preheat the oven to 350°F.
-    2. Dice chicken and onion and 1/4 cup of  sauce in a pan. Saute until cooked. Sprinkle with a little salt. Set aside in a bowl.
-    3. Prepare the tortillas. Heat a small light skillet on med-high heat. Add a teaspoon of oil (high smoke point oil as indicated above, we use grapeseed oil) to coat the pan. Dip a tortilla in the sauce to coat the tortilla with sauce on both sides. Place the tortilla in the skillet and heat for a few seconds, until soft. Use a spatula or tongs to flip to the other side for a few more seconds. Set aside on a plate. Repeat with remaining tortillas.
-    4. Open black beans, cheese and chilies and set to the side by the chicken.
-    5. Assemble the enchiladas. Use an 8×12 inch pyrex baking dish. Place a couple spoonfuls of the chicken mixture in the center of a tortilla, add some cheese, chilies and beans and roll it up. Place in the baking dish and repeat until all of your tortillas are neatly placed in rows in the casserole dish. Cover the tortillas rolls with the remaining sauce. Sprinkle with the remaining grated cheese.
-    6. Cover with foil and place in the oven and cook for 10-15 minutes, or until cheese is bubbly.
-    7. For crispy cheese on top, remove the foil and cook for 10 more minutes.
-    8. Let them cool for 5-10 before lifting them out for easier removal.
-
-    **ProTips**
-    
-    1. Softening the tortillas takes practice but is worth it so you don't get broken enchilladas.  I actually don't use a spatula or tongs. I hold the tortilla with my forefinger and thumb and lay down the majority of the tortilla and flip it when one side is soft
-    2. Put the ingredients in the tortillas and roll *in* the dish. Trying to roll them elsewhere and move them is hard.
-    3. I like to cook the chicken and let it cool till it's touchable, then I give it an extra chop with a knife and I assemble with my hands.  It's messy but faster.
+    * 1. Preheat the oven to 350°F.
+    * 2. Dice chicken and onion and 1/4 cup of sauce in a pan. 
+    * 3. Saute until cooked. Set aside in a bowl.
+    * 4. Open black beans, cheese, chilies and enchillada sauce and set to the side by the chicken.
+    * 5. Prepare a 9x13 pyrex or pan by placing it next to the stove and near the other ingredients.
+    * 6. Prepare the tortillas. Heat a small light skillet on med-high heat. Add a teaspoon of oil (high smoke point oil as indicated above, we use grapeseed oil) to coat the pan. 
+    * 7. Dip a tortilla in the sauce to coat the tortilla with sauce on both sides. Place the tortilla in the skillet and heat for a few seconds, until the tortilla gets warm. Use a spatula to flip to the other side for a few more seconds.
+    * 8. Lay the tortilla in the pan. Place a couple spoonfuls of the chicken mixture in the center of a tortilla, add some cheese, chilies and beans and roll it up. DO THIS IN THE PAN. 
+    * 9. Repeat steps 7 & 8 until all of your tortillas are neatly placed in rows in the casserole dish. 
+    * 10. Cover the tortillas rolls with the remaining sauce. Sprinkle with the remaining grated cheese.
+    * 11. Cover in foil and place in the oven and cook for 20 minutes, or until cheese is bubbly.
+    * 12. Remove foil and bake for 10 more minutes
+    * 13. Let cool for 10 min before serving.
+    **Protips**
+    * 1. This is gonna be messy. Read step 7 carefullly before you start. I don't even use a spatula at this point and just pinch the tortilla between my forefinger and thumb and flip after a few seconds. -- This is dangerous, I don't suggest it...I'm just telling you, that's what I do. Use whatever works best for you.
+    * These are chicken enchilladas but as with most mexican food, the protein is negotiable and I have used, just beans, carnitas, steak and even tofu before. All good.
     
 ---
-This is mhy go to enchillada recipe.  I got the technique for softening the tortillas from the Simply Recipes site. The filling is entirely up to you. This recipe works with everything.
+This is my go to recipe for enhilladas.  It's messy but worth it.
