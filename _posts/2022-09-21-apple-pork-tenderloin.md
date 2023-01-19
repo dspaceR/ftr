@@ -10,6 +10,20 @@ recipe:
   prep: 10 minutes
   cook: 30 minutes
   ingredients_markdown: |-
+    * 2 lbs Pork Tenderloin 
+    * 3 apples, large (gala or similar)
+    * 2 onions
+    * 3 Tbs oil
+    * 3/4 coarse salt
+    * 1 tsp ground black pepper
+    * 1/2 tsp ground cinnamon
+    * 1 stick cinnamon (optional)
+    * 12 oz apple juice or cider
+    * 2 Tbs brown sugar
+    * 2 Tbs butter, cut in 4 slices
+
+ directions_markdown: |-
+
     *  1. Preheat the oven to 375°F.
     * 2. Peel and slice the apples and onions. Apples should be thickish, onions should be thin.
     * 3. Mix the salt, pepper and ground cinnamon to create a seasoning and season the tenderloin by rubbing the mix on all sides.
