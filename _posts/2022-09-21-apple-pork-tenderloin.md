@@ -21,10 +21,8 @@ recipe:
     * 12 oz apple juice or cider
     * 2 Tbs brown sugar
     * 2 Tbs butter, cut in 4 slices
-
- directions_markdown: |-
-
-    *  1. Preheat the oven to 375°F.
+  directions_markdown: |-
+    * 1. Preheat the oven to 375°F.
     * 2. Peel and slice the apples and onions. Apples should be thickish, onions should be thin.
     * 3. Mix the salt, pepper and ground cinnamon to create a seasoning and season the tenderloin by rubbing the mix on all sides.
     * 4. Heat the oil in a large skillet or heavy pot that can go in the oven.
@@ -37,10 +35,7 @@ recipe:
     * 11. Remove from the oven and set pork aside covered for 5 min.
     * 12. while the pork rests, place the butter slices over the apples and let it melt.
     * 13. Serve the sliced pork over the apples and onions.
-
-
     **ProTips**
-    
     1. This can be made in the crock pot. Sear the pork, then place it all in and cook on low for 4 hours.
     2. I like to serve this with mashed potatoes and I make a bed.
     3. If you like your apples and onions a little more carmelized, you can seperate the juice and lay the apples and onions on a sheet pan under the broiler for a few minutes.
