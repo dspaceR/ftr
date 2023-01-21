@@ -6,7 +6,7 @@ categories:
   - BBQ
   - Bacon
   - Entree
-featured_image: https://dancingthroughtherain.com/wp-content/uploads/2017/03/Bacon-Wrapped-Pork-Chops-Recipe72.jpg
+featured_image: /images/baconporkchop.jpeg
 recipe:
   servings: 4-6
   prep: 10 minutes

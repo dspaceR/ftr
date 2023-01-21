@@ -4,7 +4,7 @@ title: Chicken With Mushrooms in Red Wine
 categories:
   - Chicken
   - Entree
-featured_image: https://images.pexels.com/photos/391213/pexels-photo-391213.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
+featured_image: /images/chickenmushroom.jpg
 recipe:
   servings: 4
   prep: 20 minutes

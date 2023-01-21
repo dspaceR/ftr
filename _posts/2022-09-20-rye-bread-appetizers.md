@@ -5,7 +5,7 @@ categories:
   - Sausage
   - Cheese
   - Appetizer
-featured_image: https://images.pexels.com/photos/8599724/pexels-photo-8599724.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
+featured_image: /images/ryeappetizer.jpg
 recipe:
   prep: 20 minutes
   cook: 20 minutes

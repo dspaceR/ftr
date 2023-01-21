@@ -3,7 +3,7 @@ date: 2022-10-11
 title: Parmesan, sun-dried tomato and basil rice.
 categories:
   - Side Dish
-featured_image: https://images.pexels.com/photos/6072214/pexels-photo-6072214.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
+featured_image: /images/sundriedtomato.jpg
 recipe:
   servings: 4-6
   prep: 10 minutes

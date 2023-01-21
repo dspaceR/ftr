@@ -3,7 +3,7 @@ date: 2022-10-05
 title: French Onion Soup
 categories:
   - Soup
-featured_image: https://images.pexels.com/photos/6072214/pexels-photo-6072214.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
+featured_image: /images/frenchonion.jpeg
 recipe:
   servings: 4-8
   prep: 20 minutes

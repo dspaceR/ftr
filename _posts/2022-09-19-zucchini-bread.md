@@ -4,7 +4,7 @@ title: High Altitude Zucchini Bread
 categories:
   - Zucchini
   - Bread
-featured_image: https://images.pexels.com/photos/128420/pexels-photo-128420.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
+featured_image: /images/zucchinibread.jpeg
 recipe:
   servings: 2 loaves
   prep: 20 minutes

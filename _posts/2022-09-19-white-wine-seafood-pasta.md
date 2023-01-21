@@ -5,7 +5,7 @@ categories:
   - Seafood
   - Pasta
   - Entree
-featured_image: https://food.fnr.sndimg.com/content/dam/images/food/fullset/2007/2/28/0/ei0914_spaghetti.jpg.rend.hgtvcom.1280.720.suffix/1396634731643.jpeg
+featured_image: /images/seafoodpasta.jpeg
 recipe:
   servings: 4
   prep: 10 minutes

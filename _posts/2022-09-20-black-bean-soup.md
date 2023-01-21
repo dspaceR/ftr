@@ -5,7 +5,7 @@ categories:
   - Soup
   - Mexican
   - Bacon
-featured_image: https://assets.epicurious.com/photos/57840464b20a4ca553a2dd55/master/pass/black-bean-soup-with-cumin-and-jalapeno.jpg
+featured_image: /images/blackbeansoup.jpeg
 recipe:
   servings: 8 servings
   prep: 10 minutes

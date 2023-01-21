@@ -4,7 +4,7 @@ title: Asian Cucumber Salad
 categories:
   - Salad
   - Starter
-featured_image: https://images.pexels.com/photos/6072214/pexels-photo-6072214.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
+featured_image: /images/cucumbersalad.jpeg
 recipe:
   servings: 2
   prep: 10 minutes

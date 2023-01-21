@@ -5,7 +5,7 @@ categories:
   - Breakfast
   - Christmas
   - Dessert
-featured_image: https://images.pexels.com/photos/11766273/pexels-photo-11766273.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
+featured_image: /images/coffeecake.jpeg
 recipe:
   servings: 20-24 slices
   prep: 30 minutes

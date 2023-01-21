@@ -4,7 +4,7 @@ title: Brother from another mother-ship Meat Pie
 categories:
   - Entree
   - Beef
-featured_image: https://images.pexels.com/photos/6072214/pexels-photo-6072214.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
+featured_image: /images/meatpies.png
 recipe:
   servings: 4 - 1 large pie
   prep: 30 minutes
@@ -60,4 +60,4 @@ recipe:
     3. Stack up leftover pastry trimmings and freeze for reuse. To reroll, allow it to come back to room temperatue
     4. Experiment with side dishes: mash, rich gravy, a crunchy salad, sweet chilli sauce, salsa verde, good chips. If you're looking for The Mothership find a minted pea and gravy recipe on this blog to make your own.
 ---
-Let's talk meat pies. When I was in Leeds for work there was a pie shop called Pieminister. Within that heaven I had a meat pie every afternoon. My all time favorite was "The Mothership" which was any meat pie, with mashed potatoes, minty peas and gravy; in one big delicious pile. I DREAM of these but as I am not from the UK and do not have a Pieminister here so I had to look up the recipe and make them myself. Luckly they're delightful and provide many amazing meat pie recipes on their blog. Highly suggest a look.
+Let's talk meat pies. When I was in Leeds for work there was a pie shop called [Pieminister](https://pieminister.co.uk). Within that heaven I had a meat pie every afternoon. My all time favorite was "The Mothership" which was any meat pie, with mashed potatoes, minty peas and gravy; in one big delicious pile. I DREAM of these but as I am not from the UK and do not have a Pieminister here so I had to look up the recipe and make them myself. Luckly they're delightful and provide many amazing meat pie recipes on their blog. Highly suggest a look.

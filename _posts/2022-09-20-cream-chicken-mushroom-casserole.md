@@ -5,7 +5,7 @@ categories:
   - Chicken
   - Casserole
   - Entree
-featured_image: https://images.unsplash.com/photo-1654780105295-9227206f11ec?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80
+featured_image: /images/chickenmushroomcasserole.jpeg
 recipe:
   servings: 4-6
   prep: 20 minutes

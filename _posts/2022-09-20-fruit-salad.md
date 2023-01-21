@@ -4,7 +4,7 @@ title: Honey, Lemon Fruit Salad
 categories:
   - Fruit
   - Breakfast
-featured_image: https://images.pexels.com/photos/838846/pexels-photo-838846.jpeg?cs=srgb&dl=pexels-lisa-fotios-838846.jpg&fm=jpg
+featured_image: /images/berrysalad.jpg
 recipe:
   servings: 4-6
   prep: 15 minutes

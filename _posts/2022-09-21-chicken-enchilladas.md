@@ -5,7 +5,7 @@ categories:
   - Chicken
   - Entree
   - Mexican
-featured_image: https://images.pexels.com/photos/6072214/pexels-photo-6072214.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
+featured_image: /images/enchiladas-2-400x300.jpeg
 recipe:
   servings: 4-6
   prep: 10 minutes

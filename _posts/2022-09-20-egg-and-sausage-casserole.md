@@ -6,7 +6,7 @@ categories:
   - Egg
   - Casserole
   - Breakfast
-featured_image: https://images.pexels.com/photos/8430614/pexels-photo-8430614.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
+featured_image: /images/eggsausagecasserole.jpeg
 recipe:
   servings: 4-6
   prep: 20 minutes

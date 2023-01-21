@@ -6,7 +6,7 @@ categories:
   - Entree
   - Italian
   - Sausage
-featured_image: https://images.pexels.com/photos/6072214/pexels-photo-6072214.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
+featured_image: /images/minestrone.jpg
 recipe:
   servings: 4-6
   prep: 15 minutes

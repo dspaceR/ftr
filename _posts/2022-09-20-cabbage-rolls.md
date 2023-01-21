@@ -7,7 +7,7 @@ categories:
   - Cabbage
   - Italian
   - Entree
-featured_image: https://images.pexels.com/photos/6072214/pexels-photo-6072214.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
+featured_image: /images/cabbageroll.jpeg
 recipe:
   servings: 4 to 6
   prep: 10 minutes

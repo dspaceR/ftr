@@ -4,7 +4,7 @@ title: Rack of Lamb
 categories:
   - Lamb
   - Entree
-featured_image: https://images.pexels.com/photos/6072214/pexels-photo-6072214.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
+featured_image: /images/lambchop.jpg
 recipe:
   servings: 2-3
   prep: 20 minutes
