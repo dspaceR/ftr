@@ -4,8 +4,18 @@ image_view: true
 ---
 <h1>Recipes</h1>
 
+{% assign cat_string = "" %}
+
 {% for category in site.categories %}
-	<span class="taglink"><a href="#{{ category[0] }}">{{ category[0] }}</a></span>
+	{% assign cat_string = cat_string | append: category[0] | append: ", " %}
+{% endfor %}
+
+{% assign cat_array = cat_string | split: ", " %}
+
+{% assign cat_array_sorted = cat_array | sort %}
+
+{% for category in cat_array_sorted %}
+	<span class="taglink"><a href="#{{ category }}">{{ category }}</a></span>
 {% endfor %}
 
 {% if page.image_view %}
