@@ -29,9 +29,7 @@ recipe:
     5. Add the chicken to the casserole.
     6. Cover, reduce heat to low and simmer 15 minutes, turning pieces halfway through.
     7. Remove the chicken and vegetables.  Increase heat to high and boil the sauce until reduced and slightly thickened. 
-    8. Pour over the  chicken.
+    8. Pour over the chicken.
 
-    **Protip**
-    1. THIS RECIPE MAKES NO SENSE
 ---
-I NEED TO FIX THIS RECIPE
+This is a family recipe. I'll be honest, everyone else seems to be able to make this dish flawlessly. I sadly fail every time.  I'll keep trying though.
